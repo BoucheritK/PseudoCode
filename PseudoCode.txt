@@ -1,0 +1,8 @@
+demander à l'utilisateur un nombre appeler nombreSaisi.
+demander le texte à afficher appeler texte.
+
+DEBUT DU PROGRAMME
+
+	afficher nombre de fois nombreSaisi texte.
+
+FIN DU PROGRAMME
